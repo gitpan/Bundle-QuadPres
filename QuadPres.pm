@@ -1,6 +1,6 @@
 package Bundle::QuadPres
 
-$VERSION = '0.8.2';
+$VERSION = '0.8.3';
 
 1;
 
@@ -44,7 +44,7 @@ Getopt::Long
 
 MIME::Types
 
-HTML::Hard::Disk
+HTML::Links::Localize
 
 =head1 DESCRIPTION
 

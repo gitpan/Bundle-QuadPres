@@ -1,6 +1,6 @@
 package Bundle::QuadPres
 
-$VERSION = '0.8.0';
+$VERSION = '0.8.1';
 
 1;
 
@@ -43,8 +43,6 @@ File::Find
 Getopt::Long
 
 MIME::Types
-
-Pod::Usage
 
 =head1 DESCRIPTION
 

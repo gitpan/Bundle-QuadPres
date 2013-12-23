@@ -1,6 +1,6 @@
-package Bundle::QuadPres
+package Bundle::QuadPres;
 
-$VERSION = '0.8.3';
+$VERSION = '0.8.4';
 
 1;
 
@@ -12,7 +12,7 @@ Bundle::QuadPres - A bundle to install external CPAN modules used by Quad-Pres
 
 =head1 SYNOPSIS
 
-  
+
 Perl one liner using CPAN.pm:
 
   perl -MCPAN -e 'install Bundle::QuadPres'
@@ -24,7 +24,7 @@ Use of CPAN.pm in interactive mode:
   cpan> quit
 
 Just like the manual installation of perl modules, the user may
-need root access during this process to insure write permission 
+need root access during this process to insure write permission
 is allowed within the intstallation directory.
 
 
@@ -50,11 +50,11 @@ HTML::Links::Localize
 
 This bundle installs modules needed by Quad-Pres:
 
-http://vipe.technion.ac.il/~shlomif/quadpres/
+L<http://www.shlomifish.org/quad-pres/>
 
 =head1 AUTHOR
 
-Shlomi Fish E<lt>F<shlomif@vipe.technion.ac.il>E<gt>
+Shlomi Fish, L<http://www.shlomifish.org/>
 
 =cut
 

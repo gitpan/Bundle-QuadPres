@@ -1,9 +1,11 @@
+Build.PL
 Changes
+LICENSE
 MANIFEST
-Makefile.PL
-QuadPres.pm
+META.json
+META.yml
 README
+lib/Bundle/QuadPres.pm
 t/00-load.t
+t/cpan-changes.t
 t/pod.t
-META.yml                                 Module YAML meta-data (added by MakeMaker)
-META.json                                Module JSON meta-data (added by MakeMaker)
